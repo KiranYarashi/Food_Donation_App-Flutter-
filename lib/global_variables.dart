@@ -1,0 +1,57 @@
+final product = [
+  {
+    'id': 0,
+    'company': 'Joe Foods ',
+    'title': 'Joe Food ',
+    'price': "Gandhi Circle, Mysore",
+    'size': [6,7,8, 9, 10,11],
+    'imageurl': 'assets/images/h1.png',
+    'mapUrl': 'https://maps.app.goo.gl/7pXP6GDcGsUNdxwX9',
+    'isAvaliable': true,
+    'count': 5,
+  },
+  {
+    'id': 1,
+    'company': 'Udupi Hotel',
+    'title': 'Udupi Hotel',
+    'price': "Indira Nagar, Bangalore",
+    'size': [6,7,8, 9, 10,11],
+    'imageurl': 'assets/images/h1.png',
+    'mapUrl': 'https://maps.app.goo.gl/7pXP6GDcGsUNdxwX9',
+    'isAvaliable': false,
+    'count': 5,
+  },
+  {
+    'id': 2,
+    'company': 'Hotel Kamath',
+    'title': 'Hotel Kamath',
+    'price': "Whitefield, Bangalore",
+    'size': [6,7,8, 9, 10,11],
+    'imageurl': 'assets/images/h1.png',
+    'mapUrl': 'https://maps.app.goo.gl/7pXP6GDcGsUNdxwX9',
+    'isAvaliable': true,
+    'count': 5,
+  },
+  {
+    'id': 3,
+    'company': 'Chi Foods',
+    'title': 'Chi Foods',
+    'price': "JP Nagar, Mysore",
+    'size': [6,7,8, 9, 10,11],
+    'imageurl': 'assets/images/h1.png',
+    'mapUrl': 'https://maps.app.goo.gl/7pXP6GDcGsUNdxwX9',
+    'isAvaliable': false,
+    'count': 5,
+  },
+];
+
+// final cart = [
+//   {
+//     'id': 3,
+//     'company': 'Johrdon',
+//     'title': 'Men\'s showes',
+//     'price': 2000.89,
+//     'size': 8,
+//     'imageurl': 'assets/images/shoes.png',
+//   },
+// ];
